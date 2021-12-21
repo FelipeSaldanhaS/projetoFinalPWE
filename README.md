@@ -24,9 +24,11 @@ Link para os vídeos das partes:
 Parte 1:
 
 https://youtu.be/-NgDSlFsyA0
+
 Parte 2:
 
 https://youtu.be/u1MKfEUgdRU
+
 Parte 3:
 
 https://youtu.be/mqqVENfaBf4
