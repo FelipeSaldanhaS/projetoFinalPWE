@@ -11,9 +11,11 @@ Criação das classes de funções e das classes de conexão e uso do BD.
 Desenvolvimento do código JSP.
 
 David Belizario Rodrigues - GU3011631
+
 Utilização de Bootstrap e criação do CSS in-line.
 
 Anderson Carvalho Giusti - GU3018148
+
 Requisições via Ajax.
 Funções JQuery.
 
