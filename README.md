@@ -18,7 +18,7 @@ Anderson Carvalho Giusti - GU3018148
 
 Requisições via Ajax.
 Funções JQuery.
-
+<hr>
 Link para os vídeos das partes:
 
 Parte 1:
