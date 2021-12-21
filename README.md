@@ -16,8 +16,7 @@ Utilização de Bootstrap e criação do CSS in-line.
 ---
 Anderson Carvalho Giusti - GU3018148
 
-Requisições via Ajax.
-Funções JQuery.
+Requisições via Ajax e Funções JQuery.
 ---
 Link para os vídeos das partes:
 
