@@ -22,11 +22,11 @@ Funções JQuery.
 Link para os vídeos das partes:
 
 Parte 1:
-
+https://youtu.be/-NgDSlFsyA0
 Parte 2:
-
+https://youtu.be/u1MKfEUgdRU
 Parte 3:
-
+https://youtu.be/mqqVENfaBf4
 
 Link do Repositório no GitHub com código fonte e script do banco de dados:
 https://github.com/FelipeSaldanhaS/projetoFinalPWE
